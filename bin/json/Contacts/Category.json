@@ -1,0 +1,54 @@
+[
+	{
+		"CategoryID": 1,
+		"Name": "Prowadzący"
+	},
+	{
+		"CategoryID": 2,
+		"Name": "Klient"
+	},
+	{
+		"CategoryID": 3,
+		"Name": "Oskarżony"
+	},
+	{
+		"CategoryID": 4,
+		"Name": "Obrońca"
+	},
+	{
+		"CategoryID": 5,
+		"Name": "II Strona"
+	},
+	{
+		"CategoryID": 6,
+		"Name": "Pozwany"
+	},
+	{
+		"CategoryID": 7,
+		"Name": "Prawnik"
+	},
+	{
+		"CategoryID": 8,
+		"Name": "Oskarżciel"
+	},
+    	{
+		"CategoryID": 9,
+		"Name": "Przedstawiciel"
+	},
+	{
+		"CategoryID": 10,
+		"Name": "Pełnomocnik"
+	},
+	{
+		"CategoryID": 11,
+		"Name": "Współpracownik"
+	},
+	{
+		"CategoryID": 12,
+		"Name": "Kontrachent"
+	},
+	{
+		"CategoryID": 13,
+		"Name": "Kancelaria"
+	}
+]

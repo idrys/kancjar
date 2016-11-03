@@ -1,0 +1,73 @@
+<form ng-submit="saveChanges(contactEdit)">
+ 
+<!--div ng-show=contactEdit.IsCompany>{{contactEdit.ShortCompany}}</div>
+-->
+
+<div class="row">
+    <div class="col-md-4">
+        <input type="checkbox" ng-model="contactEdit.IsCompany" ng-true-value="'1'" ng-false-value="'0'" value="contactEdit.IsCompany"></input>
+        <label>Dane firmy?</label>
+    </div>
+    <div class="col-md-4">
+        <input type="checkbox" ng-model="contactEdit.IsClient" ng-true-value="'1'" ng-false-value="'0'" value="contactEdit.IsClient"></input>
+        <label>Klient?</label>
+    </div>
+    <div class="col-md-4">
+        <input type="checkbox" ng-model="contactEdit.IsAssociate" ng-true-value="'1'" ng-false-value="'0'" value="contactEdit.IsAssociate"></input>
+        <label>Współpracownik?</label>
+    </div>
+</div>
+    <br />
+    
+    
+<div class="row" ng-show="contactEdit.IsCompany==1">
+    <div class="col-md-4">
+        <label>Nazwa skrócona firmy</label>
+        <input type="text" class="form-control" ng-model=contactEdit.ShortCompany></input>
+    </div>
+    <div class="col-md-8">
+        <label>Pełna nazwa firmy</label>
+        <input type="text" class="form-control" ng-model=contactEdit.Company></input>
+    </div>
+
+</div>
+    
+<div class="row" ng-show="contactEdit.IsCompany==0">
+  <div class="col-md-6">
+      <label>Imię</label>
+      <input type="text" class="form-control" ng-model="contactEdit.FirstName" />
+  </div>
+  <div class="col-md-6">
+      <label>Nazwisko</label>
+      <input type="text" class="form-control" ng-model="contactEdit.Surname" />
+  </div>
+</div>
+
+<br />
+
+<div class="row" ng-show="contactEdit.IsCompany==0">
+ <div class="col-md-8">
+        <label>Firma</label>
+        <input type="text" class="form-control" ng-model=contactEdit.Company></input>
+    </div>
+    <div class="col-md-4">
+        <label>Stanowisko</label>
+        <input type="text" class="form-control" ng-model=contactEdit.Workplace></input>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-md-4">
+    <label ng-show="contactEdit.IsCompany==0">PESEL</label>    
+    <label ng-show="contactEdit.IsCompany==1">NIP</label>    
+    <input type="text" class="form-control" ng-model=contactEdit.NumberID></input>
+    </div>
+</div>
+
+ <br /> 
+<div class="row">
+  
+</div>
+    <button type="submit" class="btn btn-primary" ng-if="!success">Zapisz zmiany</button>
+    <button type="button" class="btn btn-success" ng-if="success" disabled>Zmiany zapisane</button>
+</form>

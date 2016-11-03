@@ -1,0 +1,61 @@
+[
+	{
+		"caseID": 1,
+		"sing": "01/2015/Jarek,",
+		"sing2": "N0U-8P5/222; CDAA-1233/2012; 2133-432-122",
+		"OfficeID": 1,
+		"Value": 26690,
+		"Registration": "01/29/2015",
+		"Comment": "scelerisque dui. Suspendisse ac metus",
+		"TypeCase": 1,
+		"Assigned": 1,
+		"LocationActID": 4,
+		"Status": 1,
+		"MainLawyerID": 0
+
+	},
+	{
+    "caseID": 2,
+		"sing": "02/2015/Jarek,",
+		"sing2": "X3Z-9N5/039; CFA/2012-122; 1211-2211; 12/AS12/1112",
+		"OfficeID": 2,
+		"Value": 20127,
+		"Registration": "05/13/2016",
+		"Comment": "laoreet posuere, enim nisl elementum",
+		"TypeCase":2,
+		"Assigned": 1,
+		"LocationActID": 4,
+		"Status":  1,
+    "MainLawyerID" : 1    
+	},
+	{
+        "caseID": 3,
+		"sing": "01/2015/Nowak,",
+		"sing2":	"H9H-9P3/284; DSA-122-1122; 212S/211/223",
+		"OfficeID": 3,
+		"Value": 69627,
+		"Registration": "02/07/2016",
+		"Comment": "Sed id risus quis diam luctus lobortis. Class aptent",
+		"TypeCase": 3,
+		"Assigned": 2,
+		"LocationActID": 1,
+		"Status":  2,
+		"MainLawyerID" : 1
+    
+	},
+	{
+     "caseID": 4,
+		"sing": "01/2016/J&N,",
+		"sing2":	"W5E-2I2/133; 21M23/322/112/22",
+		"OfficeID": 3,
+		"Value": 135000,
+		"Registration": "01/02/2015",
+		"Comment": "posuere",
+		"TypeCase": 1,
+		"Assigned": 1,
+		"LocationActID": 1,
+		"Status":  3,
+    "MainLawyerID" : 1    
+	}
+]
+

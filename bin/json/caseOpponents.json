@@ -1,0 +1,27 @@
+[
+	{
+		"SubjectID": 1,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 2,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 3,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 4,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 5,
+		"CaseID": 2
+	},
+	{
+		"SubjectID": 6,
+		"CaseID": 3
+	}
+	
+]

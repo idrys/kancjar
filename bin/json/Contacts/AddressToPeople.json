@@ -1,0 +1,502 @@
+[
+	{
+		"AddressID": 34,
+		"PersonID": 46,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 84,
+		"PersonID": 24,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 194,
+		"PersonID": 16,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 220,
+		"PersonID": 9,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 164,
+		"PersonID": 22,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 233,
+		"PersonID": 98,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 121,
+		"PersonID": 54,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 75,
+		"PersonID": 87,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 242,
+		"PersonID": 47,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 176,
+		"PersonID": 69,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 46,
+		"PersonID": 62,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 73,
+		"PersonID": 8,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 168,
+		"PersonID": 8,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 291,
+		"PersonID": 30,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 229,
+		"PersonID": 51,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 194,
+		"PersonID": 80,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 230,
+		"PersonID": 93,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 284,
+		"PersonID": 94,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 154,
+		"PersonID": 10,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 159,
+		"PersonID": 67,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 134,
+		"PersonID": 32,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 16,
+		"PersonID": 61,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 43,
+		"PersonID": 83,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 284,
+		"PersonID": 23,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 36,
+		"PersonID": 46,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 1,
+		"PersonID": 86,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 98,
+		"PersonID": 10,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 201,
+		"PersonID": 40,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 188,
+		"PersonID": 94,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 293,
+		"PersonID": 90,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 98,
+		"PersonID": 70,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 252,
+		"PersonID": 18,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 286,
+		"PersonID": 13,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 226,
+		"PersonID": 14,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 219,
+		"PersonID": 76,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 62,
+		"PersonID": 80,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 244,
+		"PersonID": 46,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 96,
+		"PersonID": 21,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 28,
+		"PersonID": 79,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 195,
+		"PersonID": 47,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 154,
+		"PersonID": 56,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 26,
+		"PersonID": 68,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 1,
+		"PersonID": 44,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 99,
+		"PersonID": 12,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 157,
+		"PersonID": 58,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 26,
+		"PersonID": 72,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 21,
+		"PersonID": 39,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 153,
+		"PersonID": 68,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 83,
+		"PersonID": 58,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 92,
+		"PersonID": 70,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 48,
+		"PersonID": 9,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 250,
+		"PersonID": 94,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 291,
+		"PersonID": 40,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 12,
+		"PersonID": 68,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 183,
+		"PersonID": 91,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 157,
+		"PersonID": 30,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 290,
+		"PersonID": 20,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 147,
+		"PersonID": 6,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 164,
+		"PersonID": 74,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 79,
+		"PersonID": 94,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 169,
+		"PersonID": 53,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 61,
+		"PersonID": 19,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 104,
+		"PersonID": 75,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 275,
+		"PersonID": 84,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 14,
+		"PersonID": 70,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 137,
+		"PersonID": 97,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 163,
+		"PersonID": 97,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 24,
+		"PersonID": 34,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 225,
+		"PersonID": 36,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 17,
+		"PersonID": 10,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 12,
+		"PersonID": 67,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 206,
+		"PersonID": 2,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 243,
+		"PersonID": 13,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 88,
+		"PersonID": 75,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 125,
+		"PersonID": 90,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 125,
+		"PersonID": 70,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 47,
+		"PersonID": 1,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 109,
+		"PersonID": 75,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 140,
+		"PersonID": 65,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 57,
+		"PersonID": 34,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 123,
+		"PersonID": 96,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 7,
+		"PersonID": 71,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 156,
+		"PersonID": 84,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 293,
+		"PersonID": 79,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 17,
+		"PersonID": 78,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 234,
+		"PersonID": 91,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 216,
+		"PersonID": 55,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 247,
+		"PersonID": 52,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 157,
+		"PersonID": 99,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 294,
+		"PersonID": 73,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 18,
+		"PersonID": 13,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 222,
+		"PersonID": 30,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 10,
+		"PersonID": 54,
+		"TypeName": "Zameldowanie"
+	},
+	{
+		"AddressID": 283,
+		"PersonID": 15,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 24,
+		"PersonID": 96,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 43,
+		"PersonID": 45,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 146,
+		"PersonID": 90,
+		"TypeName": "Zamieszkania"
+	},
+	{
+		"AddressID": 80,
+		"PersonID": 52,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 151,
+		"PersonID": 68,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 34,
+		"PersonID": 31,
+		"TypeName": "Zamieszkania"
+	}
+]

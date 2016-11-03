@@ -1,0 +1,14 @@
+[
+	{
+		"StatusID": 1,
+		"Status": "Rozpoczęta"
+	},
+	{
+		"StatusID": 2,
+		"Status": "W toku"
+	},
+	{
+		"StatusID": 3,
+		"Status": "Zakończona"
+	}
+]

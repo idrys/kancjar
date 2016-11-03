@@ -1,0 +1,194 @@
+﻿<form ng-submit="saveChangesCase(myCase)">
+	<br />
+	<div class="row">
+		<div class="col-md-2">
+			<label>Sygnatura:</label>
+			<input type="text" class="form-control" ng-model="myCase.AutoSing" disabled="disabled" />
+		</div>
+         
+        <div class="col-md-6">
+            <label>Klienci:</label>
+            <intput type="text"  class="form-control" disabled="disabled" ng-repeat="subject in myCase.arrayClients" >{{subject.FirstName}} {{subject.Surname}}</input>              
+        </div>
+        
+        <div class="col-md-1">
+            <label></label>
+            <button data-toggle="modal" ng-click="modalWindowContacts(myCase, 1)" data-target="#myModal" class="btn btn-info small"><span class="glyphicon glyphicon-pencil"></span></button>
+		</div>
+        
+        <div class="col-md-2" >
+			<label>Data rejestracji:</label>
+			<input type="text"  class="form-control" ng-model="myCase.Registration" disabled="disabled" />
+        </div>
+		
+	</div>
+    <br />
+    <br />
+    <!--
+    <div class="row">
+			<div class="col-md-4">
+				<table class="table table-hover">
+					<thead>
+						<tr>
+							<th>Klienci</th>
+							<th></th>
+							<th></th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr ng-repeat="subject in myCase.arrayClients">
+							<td><a href="#/admin/subject/edit/{{$index}}" class="link">{{subject.FirstName}} {{subject.Surname}}</a></td>
+							
+							<td><button ng-click="deleteSubject( subject , $index )" class="btn btn-danger btn-sm pull-right"><span class="glyphicon glyphicon-trash"></span></button></td>
+						</tr>
+					</tbody>
+				</table>
+				<button type="button" data-toggle="modal" data-target="#myModal">Dodaj</button>
+            </div>
+    </div>
+    -->
+    
+    
+    <div class="row">
+        <div class="col-md-6">
+			<label>Sygnatura sprawy:/ Znak sprawy</label>
+			<input type="text" class="form-control" ng-model="myCase.ManualSing" />
+		</div>
+		<div class="col-md-2">
+			<label>Rodzaj sprawy: </label>
+			<select ng-model="myCase.TypeCaseID" class="form-control" convert-to-number>
+				<!--myCase.TypeCaseID-->
+				<option ng-repeat="typeCase in TypeCases" value="{{typeCase.TypeCaseID}}">{{typeCase.Name}}</option>
+			</select>
+        </div>
+        <div class="col-md-2">
+			<label>Sprawa:</label> <!-- myCase.AllocationID albo myCase.Assigned -->
+			<select ng-model="myCase.AssignedID" type="text" class="form-control" convert-to-number>
+				<option ng-repeat="ass in Assigned" value="{{ass.AssignedID}}">{{ass.Name}}</option>
+			</select>
+		</div>
+    </div>
+		
+	</div>
+	<br />
+	<br />
+	<div class="row">
+		<div class="col-md-10">
+			<label>Kancelaria </label>
+			<select type="text" class="form-control">
+				<option value="1">Kancelaria Radcy Prawnego T. Nowak</option>
+				<option value="2">Kancelaria Adwokacka T. Jarek</option>
+				<option value="3">Kancelaria Adwokacko-Radcowska T. Jarek i T. Nowak Sp.K.</option>
+			</select>
+
+		</div>
+		
+		
+	</div>
+	
+	<br />
+	<br />
+	<div class="row">
+		<div class="col-md-2">
+			<label>Wartość:</label>
+			<input type="text" class="form-control" value="23 400,00 zł" />
+		</div>
+		<div class="col-md-3" ng-show="0">
+			<label>Waluta: </label>
+			<select type="text" class="form-control" value="PLD">
+				<option>PLD</option>
+				<option>USD</option>
+				<option>EUR</option>
+			</select>
+		</div>
+		<div class="col-md-3">
+			<label>Prawnik główny</label>
+			<select type="text" class="form-control">
+				<option value="1">Tomasz Nowak</option>
+				<option value="2">Tomasz Jarek</option>
+				<option value="3">Tomasz Pieczonka</option>
+			</select>
+		</div>
+		<div class="col-md-3">
+			<label>Lokalizacja akt </label>
+			<select type="text" class="form-control">
+				<option value="1">Kancelaria</option>
+				<option value="2">Tomasz Nowak</option>
+				<option value="3">Tomasz Jarek</option>
+				<option value="4">Tomasz Pieczonka</option>
+				<option value="5">Izabela Gawlik</option>
+			</select>
+		</div>
+
+		<div class="col-md-2">
+			<label>Stan sprawy: </label>
+			<select type="text" class="form-control" ng-model="myCase.StatusID" convert-to-number>
+				<option ng-repeat="s in Status" value="{{s.StatusID}}">{{s.Status}}</option>
+
+			</select>
+
+		</div>
+	</div>
+
+	<br />
+	<div class="row">
+		<br />
+		
+		<div class="col-md-10">
+			<label>Przedmiot sprawy</label>
+			<input type="text" class="form-control" ng-model="myCase.Comment" />
+		</div>
+
+	</div>
+    <br />
+    
+
+	<br />
+	<br />
+    
+    <!--
+	<div class="row">
+
+		
+        
+        <div class="col-md-6">
+            <label>Tagi:</label>
+            <ul id="tag-cloud1" class="well well-sm">
+                <li class="tag-cloud tag-cloud-info">Wazna</li>
+                <li class="tag-cloud tag-cloud-success">info2</li>
+                <li class="tag-cloud tag-cloud-warning">info3</li>
+                <li class="tag-cloud tag-cloud-danger">info4</li>
+                <li class="tag-cloud tag-cloud-inverse">info5</li>
+            </ul>
+        </div>
+        
+    -->
+
+	<!-- Modal -->
+	
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		<div class="modal-dialog" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></button>
+					<h4 class="modal-title" id="myModalLabel">Lista kontaktów</h4>
+				</div>
+				<div class="modal-body">
+
+					<ng-include  src="'bin/partials/subjects/cart2.html'"></ng-include>
+
+				</div>
+				
+			</div>
+		</div>
+	</div>
+	
+	<!-- Modal -->
+
+	<div class="row">
+		<div class="col-sm-12">
+			<a href="#/cases" type="submit" class="btn btn-primary" ng-click="saveChangesCase(myCase)">Zapisz zmiany</a>
+			<a href="#/cases" class="btn btn-default">Anuluj</a>
+		</div>
+	</div>
+</form>

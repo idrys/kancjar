@@ -1,0 +1,502 @@
+[
+	{
+		"CategoryID": 7,
+		"PersonID": 54,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 3,
+		"PersonID": 16,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 41,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 4,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 75,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 10,
+		"PersonID": 79,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 3,
+		"PersonID": 50,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 8,
+		"PersonID": 1,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 17,
+		"PersonID": 47,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 20,
+		"PersonID": 34,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 95,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 73,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 21,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 38,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 3,
+		"PersonID": 82,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 6,
+		"PersonID": 14,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 16,
+		"PersonID": 84,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 16,
+		"PersonID": 21,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 9,
+		"PersonID": 39,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"PersonID": 15,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 17,
+		"PersonID": 84,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 6,
+		"PersonID": 100,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 9,
+		"PersonID": 15,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 78,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 14,
+		"PersonID": 40,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 46,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 16,
+		"PersonID": 80,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 62,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"PersonID": 3,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 30,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 8,
+		"PersonID": 29,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 23,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 18,
+		"PersonID": 84,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 17,
+		"PersonID": 63,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 20,
+		"PersonID": 1,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 16,
+		"PersonID": 16,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 14,
+		"PersonID": 86,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"PersonID": 29,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 6,
+		"PersonID": 18,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"PersonID": 13,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 62,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 2,
+		"PersonID": 23,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 19,
+		"PersonID": 56,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 46,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 3,
+		"PersonID": 13,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"PersonID": 88,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 9,
+		"PersonID": 77,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 9,
+		"PersonID": 31,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 2,
+		"PersonID": 60,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 4,
+		"PersonID": 69,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 8,
+		"PersonID": 85,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 23,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"PersonID": 39,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 16,
+		"PersonID": 2,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 82,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"PersonID": 34,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 6,
+		"PersonID": 79,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 18,
+		"PersonID": 39,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 47,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"PersonID": 26,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 46,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 6,
+		"PersonID": 94,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 10,
+		"PersonID": 56,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 9,
+		"PersonID": 68,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 18,
+		"PersonID": 42,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 83,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 17,
+		"PersonID": 43,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 68,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 6,
+		"PersonID": 81,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"PersonID": 18,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 20,
+		"PersonID": 77,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 8,
+		"PersonID": 31,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"PersonID": 39,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 89,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 82,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"PersonID": 100,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 11,
+		"PersonID": 23,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 45,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"PersonID": 73,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 17,
+		"PersonID": 100,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 79,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 18,
+		"PersonID": 91,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 18,
+		"PersonID": 76,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 1,
+		"PersonID": 9,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 2,
+		"PersonID": 21,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 14,
+		"PersonID": 87,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 21,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 4,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 3,
+		"PersonID": 37,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 5,
+		"PersonID": 90,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 4,
+		"PersonID": 75,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"PersonID": 33,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 7,
+		"PersonID": 87,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 14,
+		"PersonID": 84,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"PersonID": 81,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 15,
+		"PersonID": 65,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 10,
+		"PersonID": 15,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 20,
+		"PersonID": 57,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 19,
+		"PersonID": 80,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 14,
+		"PersonID": 6,
+		"CaseID": 4
+	}
+]

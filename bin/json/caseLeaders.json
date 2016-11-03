@@ -1,0 +1,167 @@
+[
+	{
+		"SubjectID": 1,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 2,
+		"CaseID": 10
+	},
+	{
+		"SubjectID": 3,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 2,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 5,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 6,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 7,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 8,
+		"CaseID": 15
+	},
+	{
+		"SubjectID": 9,
+		"CaseID": 17
+	},
+	{
+		"SubjectID": 10,
+		"CaseID": 7
+	},
+	
+	{
+		"SubjectID": 12,
+		"CaseID": 18
+	},
+	{
+		"SubjectID": 13,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 14,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 15,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 16,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 17,
+		"CaseID": 2
+	},
+	{
+		"SubjectID": 18,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 19,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 20,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 21,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 22,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 23,
+		"CaseID": 17
+	},
+	{
+		"SubjectID": 24,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 25,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 26,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 27,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 28,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 87,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 88,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 89,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 90,
+		"CaseID": 2
+	},
+	{
+		"SubjectID": 91,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 92,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 93,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 94,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 95,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 96,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 97,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 98,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 99,
+		"CaseID": 2
+	},
+	{
+		"SubjectID": 100,
+		"CaseID": 13
+	}
+]

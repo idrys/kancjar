@@ -1,0 +1,502 @@
+[
+	{
+		"CategoryID": 12,
+		"FirmID": 54,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 17,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 83,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 46,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 83,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 92,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 36,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 81,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 83,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 8,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 63,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 71,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 27,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 72,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 86,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 11,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 96,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 35,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 36,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 98,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 5,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 61,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 39,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 42,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 49,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 67,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 69,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 41,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 81,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 62,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 82,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 98,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 56,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 11,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 49,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 50,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 68,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 3,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 94,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 46,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 75,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 85,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 16,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 90,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 88,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 74,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 3,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 25,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 6,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 72,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 83,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 77,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 55,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 79,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 88,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 16,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 23,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 49,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 12,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 71,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 30,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 49,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 37,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 91,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 27,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 55,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 8,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 53,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 93,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 20,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 91,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 11,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 74,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 98,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 55,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 85,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 33,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 45,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 93,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 17,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 96,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 96,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 61,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 39,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 40,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 71,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 70,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 19,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 79,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 2,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 66,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 85,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 77,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 38,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 55,
+		"CaseID": 1
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 29,
+		"CaseID": 3
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 7,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 11,
+		"FirmID": 77,
+		"CaseID": 4
+	},
+	{
+		"CategoryID": 12,
+		"FirmID": 38,
+		"CaseID": 2
+	},
+	{
+		"CategoryID": 13,
+		"FirmID": 61,
+		"CaseID": 3
+	}
+]

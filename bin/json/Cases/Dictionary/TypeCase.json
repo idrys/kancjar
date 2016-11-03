@@ -1,0 +1,18 @@
+﻿[
+	{
+		"TypeCaseID": 1,
+		"Name": "Karna"
+	},
+	{
+		"TypeCaseID": 2,
+		"Name": "Cywilna"
+	},
+	{
+		"TypeCaseID": 3,
+		"Name": "Administracyjna"
+	},
+	{
+		"TypeCaseID": 4,
+		"Name":  "Inna"
+	}
+]

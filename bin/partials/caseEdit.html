@@ -1,0 +1,22 @@
+﻿
+<form ng-submit="saveChanges(myCase)">
+
+	<ul class="nav nav-tabs profiletab" role="tablist">
+		<li role="presentation" class="active"><a href="#tab1" aria-controls="home" role="tab" data-toggle="tab" target="_blank">Szczegóły</a></li>
+		<li role="presentation"><a href="#tab2" aria-controls="profile" role="tab" data-toggle="tab" target="profile">Uczestnicy</a></li>
+		<li role="presentation"><a href="#tab4" aria-controls="images" role="tab" data-toggle="tab" target="imgage">Szczegółowe informacje o sprawie</a></li>
+	</ul>
+	<div class="tab-content">
+		<div role="tabpanel" class="tab-pane active" id="tab1">
+			<br />
+			<ng-include src="'bin/partials/cases/details.html'"></ng-include>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="tab2">
+			<ng-include src="'bin/partials/cases/sites.html'"></ng-include>
+		</div>
+		<div role="tabpanel" class="tab-pane" id="tab4">
+			<ng-include src="'bin/partials/cases/raports.html'"></ng-include>
+		</div>
+	</div>
+
+</form>

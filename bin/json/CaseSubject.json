@@ -1,0 +1,402 @@
+[
+	{
+		"SubjectID": 1,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 2,
+		"CaseID": 10
+	},
+	{
+		"SubjectID": 3,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 4,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 5,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 6,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 7,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 8,
+		"CaseID": 15
+	},
+	{
+		"SubjectID": 9,
+		"CaseID": 17
+	},
+	{
+		"SubjectID": 10,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 11,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 12,
+		"CaseID": 18
+	},
+	{
+		"SubjectID": 13,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 14,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 15,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 16,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 17,
+		"CaseID": 20
+	},
+	{
+		"SubjectID": 18,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 19,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 20,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 21,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 22,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 23,
+		"CaseID": 17
+	},
+	{
+		"SubjectID": 24,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 25,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 26,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 27,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 28,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 29,
+		"CaseID": 11
+	},
+	{
+		"SubjectID": 30,
+		"CaseID": 13
+	},
+	{
+		"SubjectID": 31,
+		"CaseID": 17
+	},
+	{
+		"SubjectID": 32,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 33,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 34,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 35,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 36,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 37,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 38,
+		"CaseID": 18
+	},
+	{
+		"SubjectID": 39,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 40,
+		"CaseID": 8
+	},
+	{
+		"SubjectID": 41,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 42,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 43,
+		"CaseID": 20
+	},
+	{
+		"SubjectID": 44,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 45,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 46,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 47,
+		"CaseID": 2
+	},
+	{
+		"SubjectID": 48,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 49,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 50,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 51,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 52,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 53,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 54,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 55,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 56,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 57,
+		"CaseID": 8
+	},
+	{
+		"SubjectID": 58,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 59,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 60,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 61,
+		"CaseID": 15
+	},
+	{
+		"SubjectID": 62,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 63,
+		"CaseID": 15
+	},
+	{
+		"SubjectID": 64,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 65,
+		"CaseID": 15
+	},
+	{
+		"SubjectID": 66,
+		"CaseID": 17
+	},
+	{
+		"SubjectID": 67,
+		"CaseID": 10
+	},
+	{
+		"SubjectID": 68,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 69,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 70,
+		"CaseID": 13
+	},
+	{
+		"SubjectID": 71,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 72,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 73,
+		"CaseID": 10
+	},
+	{
+		"SubjectID": 74,
+		"CaseID": 1
+	},
+	{
+		"SubjectID": 75,
+		"CaseID": 13
+	},
+	{
+		"SubjectID": 76,
+		"CaseID": 11
+	},
+	{
+		"SubjectID": 77,
+		"CaseID": 8
+	},
+	{
+		"SubjectID": 78,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 79,
+		"CaseID": 14
+	},
+	{
+		"SubjectID": 80,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 81,
+		"CaseID": 13
+	},
+	{
+		"SubjectID": 82,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 83,
+		"CaseID": 8
+	},
+	{
+		"SubjectID": 84,
+		"CaseID": 5
+	},
+	{
+		"SubjectID": 85,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 86,
+		"CaseID": 4
+	},
+	{
+		"SubjectID": 87,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 88,
+		"CaseID": 15
+	},
+	{
+		"SubjectID": 89,
+		"CaseID": 3
+	},
+	{
+		"SubjectID": 90,
+		"CaseID": 12
+	},
+	{
+		"SubjectID": 91,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 92,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 93,
+		"CaseID": 7
+	},
+	{
+		"SubjectID": 94,
+		"CaseID": 9
+	},
+	{
+		"SubjectID": 95,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 96,
+		"CaseID": 6
+	},
+	{
+		"SubjectID": 97,
+		"CaseID": 19
+	},
+	{
+		"SubjectID": 98,
+		"CaseID": 16
+	},
+	{
+		"SubjectID": 99,
+		"CaseID": 2
+	},
+	{
+		"SubjectID": 100,
+		"CaseID": 13
+	}
+]

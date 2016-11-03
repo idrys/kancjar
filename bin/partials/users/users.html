@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="row">
+        <div class="col-xs-5">
+            <input type="text" class="form-control" placeholder="szukaj.. " ng-model="search"></input>
+            
+            <br />
+            <h2>Użytkownicy</h2>
+        </div>   
+        <div class="col-xs-5">
+            <a href="#myCase/create" class="btn btn-success pull-right">Dodaj użytkownika</a>
+        </div> 
+    </div>
+
+    <div ng-controller="users" class="col-xs-10">
+        
+        <div class="alert alert-info" ng-repeat="user in users | filter : search">
+            <h3>Użytkownik: <span class="text-capitalize">{{user.name}}</span></h3>
+            <br />
+            E-mail: {{user.email}}
+            <br />
+            <a href="#/user/edit/{{$index}}" class="btn btn-info">Edytuj</a>
+            <button ng-click="delete(user, $index)" class="btn btn-danger">Usuń</button>
+        </div>
+        
+     </div>
+ </div>

@@ -1,0 +1,502 @@
+[
+	{
+		"AddressID": 171,
+		"FirmID": 45,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 117,
+		"FirmID": 88,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 14,
+		"FirmID": 85,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 216,
+		"FirmID": 20,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 62,
+		"FirmID": 91,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 174,
+		"FirmID": 78,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 169,
+		"FirmID": 82,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 231,
+		"FirmID": 59,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 193,
+		"FirmID": 14,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 221,
+		"FirmID": 74,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 175,
+		"FirmID": 48,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 55,
+		"FirmID": 11,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 291,
+		"FirmID": 92,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 263,
+		"FirmID": 91,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 149,
+		"FirmID": 99,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 194,
+		"FirmID": 31,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 228,
+		"FirmID": 33,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 118,
+		"FirmID": 67,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 282,
+		"FirmID": 90,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 79,
+		"FirmID": 18,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 12,
+		"FirmID": 91,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 133,
+		"FirmID": 63,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 258,
+		"FirmID": 68,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 112,
+		"FirmID": 99,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 293,
+		"FirmID": 91,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 178,
+		"FirmID": 98,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 11,
+		"FirmID": 38,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 23,
+		"FirmID": 89,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 201,
+		"FirmID": 49,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 102,
+		"FirmID": 16,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 255,
+		"FirmID": 90,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 86,
+		"FirmID": 99,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 18,
+		"FirmID": 75,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 135,
+		"FirmID": 29,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 191,
+		"FirmID": 40,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 60,
+		"FirmID": 85,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 34,
+		"FirmID": 95,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 138,
+		"FirmID": 99,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 152,
+		"FirmID": 75,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 75,
+		"FirmID": 82,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 261,
+		"FirmID": 6,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 208,
+		"FirmID": 86,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 200,
+		"FirmID": 4,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 142,
+		"FirmID": 31,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 62,
+		"FirmID": 28,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 243,
+		"FirmID": 65,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 167,
+		"FirmID": 6,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 83,
+		"FirmID": 46,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 49,
+		"FirmID": 39,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 16,
+		"FirmID": 58,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 233,
+		"FirmID": 45,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 8,
+		"FirmID": 78,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 145,
+		"FirmID": 38,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 46,
+		"FirmID": 10,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 236,
+		"FirmID": 65,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 104,
+		"FirmID": 15,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 155,
+		"FirmID": 63,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 82,
+		"FirmID": 33,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 69,
+		"FirmID": 73,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 24,
+		"FirmID": 30,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 181,
+		"FirmID": 73,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 137,
+		"FirmID": 99,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 244,
+		"FirmID": 17,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 165,
+		"FirmID": 94,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 101,
+		"FirmID": 40,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 15,
+		"FirmID": 49,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 171,
+		"FirmID": 43,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 273,
+		"FirmID": 56,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 114,
+		"FirmID": 34,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 252,
+		"FirmID": 27,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 206,
+		"FirmID": 99,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 258,
+		"FirmID": 99,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 223,
+		"FirmID": 83,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 209,
+		"FirmID": 90,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 4,
+		"FirmID": 40,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 115,
+		"FirmID": 26,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 165,
+		"FirmID": 33,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 85,
+		"FirmID": 9,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 269,
+		"FirmID": 44,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 221,
+		"FirmID": 12,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 227,
+		"FirmID": 28,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 155,
+		"FirmID": 9,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 62,
+		"FirmID": 54,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 57,
+		"FirmID": 77,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 71,
+		"FirmID": 13,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 82,
+		"FirmID": 98,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 191,
+		"FirmID": 8,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 9,
+		"FirmID": 58,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 45,
+		"FirmID": 32,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 157,
+		"FirmID": 30,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 9,
+		"FirmID": 73,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 75,
+		"FirmID": 23,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 3,
+		"FirmID": 30,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 4,
+		"FirmID": 74,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 105,
+		"FirmID": 48,
+		"TypeName": "Oddziału"
+	},
+	{
+		"AddressID": 229,
+		"FirmID": 41,
+		"TypeName": "Korespondencyjny"
+	},
+	{
+		"AddressID": 64,
+		"FirmID": 64,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 292,
+		"FirmID": 97,
+		"TypeName": "Inny"
+	},
+	{
+		"AddressID": 126,
+		"FirmID": 36,
+		"TypeName": "Siedziby"
+	},
+	{
+		"AddressID": 11,
+		"FirmID": 29,
+		"TypeName": "Oddziału"
+	}
+]

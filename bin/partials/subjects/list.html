@@ -1,0 +1,32 @@
+<div class="container" ng-controller="contacts">
+    <div class="row">
+        <div class="col-xs-5">
+            <input type="text" class="form-control" placeholder="szukaj.. " ng-model="search" />
+
+            <br />
+
+        </div>
+        <div class="col-xs-4">
+            <a href="#contacts/Create" class="btn btn-success pull-right">Nowa kontakt</a>
+        </div>
+    </div>
+    <div class="col-xs-9">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Lista kontaktów</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="subject in Contacts | filter : search">
+                    <td><a href="#/contactEdit/{{subject.id}}" class="link">{{subject.ShortCompany}}; {{subject.FirstName}} {{subject.Surname}}</a></td>
+                    <td><button ng-click="deleteSubject( subject , $index )" class="btn btn-danger btn-sm pull-right"><span class="glyphicon glyphicon-trash"></span></button></td>
+                </tr>
+
+            </tbody>
+
+        </table>
+    </div>
+</div>

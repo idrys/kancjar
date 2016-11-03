@@ -1,0 +1,77 @@
+
+
+<div class="bs-component"  >
+
+    <div class="container" ng-controller="contacts">
+        <div class="row">
+            <!--
+            <div class="col-xs-4">
+                <input type="text" class="form-control" placeholder="Search" ng-model="search"></input>
+
+                <br />
+
+            </div>
+            -->
+            
+            <form class="form-inline">
+					<div class="form-group col-xs-4">
+						
+						<input type="text" ng-model="search" class="form-control" placeholder="szukaj ..."></input>
+					</div>
+                    <div class="col-xs-2">
+                        <a href="#Subjects/create" class="btn btn-success pull-right">CART 2</a>
+                    </div>
+				</form>
+                
+            
+            
+        </div>
+        
+            <div class="col-xs-6">
+                
+                <table class="table table-striped table-hover"> <!--ng-init="initCart()"-->
+                    <thead>
+                        <tr>
+                            <th>id</th>
+                            <th>InCase</th>
+                            <th ng-click="sort('FirstName')">Imię
+								<span class="glyphicon sort-icon" ng-show="sortKey=='first_name'" ng-class="{'glyphicon-chevron-up':reverse,'glyphicon-chevron-down':!reverse}"></span>
+							</th>
+							<th ng-click="sort('LastName')">Nazwisko
+								<span class="glyphicon sort-icon" ng-show="sortKey=='last_name'" ng-class="{'glyphicon-chevron-up':reverse,'glyphicon-chevron-down':!reverse}"></span>
+							</th>
+                            <th class="col-xs-4" ng-click="sort('LastName')">Nazwa firmy
+								<span class="glyphicon sort-icon" ng-show="sortKey=='ShortCompany'" ng-class="{'glyphicon-chevron-up':reverse,'glyphicon-chevron-down':!reverse}"></span>
+							</th>
+                            
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Wykorzystuje do wyświetlania 5 pozycji na stronie js/dirPagination.js -->
+                        <tr dir-paginate="user in contacts|orderBy:sortKey:reverse|filter:search|itemsPerPage:5">  
+                            <td>{{user.id}} <br /></td>                      
+                            <td>{{user.clientInCase}} <br /></td>
+                            <td>{{user.FirstName}} <br /></td>
+                            <td>{{user.Surname}}<br /></td>
+                            <td>{{user.ShortCompany}}</td>
+                            <td><a ng-hide="user.clientInCase" ng-click="addToCart(user, myCase)" class="btn btn-danger btn-xs">
+                                <span class="glyphicon glyphicon-plus"></span></a>
+                            </td>
+                            <td><a ng-show="user.clientInCase" ng-click="removeClient(user, myCase)" class="btn btn-danger btn-xs">
+                                <span class="glyphicon glyphicon-trash"></span></a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <dir-pagination-controls
+					max-size="5"
+					direction-links="true"
+					boundary-links="true" >
+				</dir-pagination-controls>
+                <div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Anuluj</button>
+					<button type="button" class="btn btn-primary" data-dismiss="modal" ng-click="saveCart()">Zapisz</button>
+				</div>
+            </div>       
+    </div>
+</div>

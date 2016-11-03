@@ -1,0 +1,35 @@
+[
+	{
+		"TypeFirmID": 1,
+		"Name": "Spółka cywilna"
+	},
+	{
+		"TypeFirmID": 2,
+		"Name": "Spółka jawna"
+	},
+	{
+		"TypeFirmID": 3,
+		"Name": "Spółka partnerska"
+	},
+	{
+		"TypeFirmID": 4,
+		"Name": "Spółka komandytowa"
+	},
+	{
+		"TypeFirmID": 5,
+		"Name": "Spółka komandytowo-akcyjna"
+	},
+	{
+		"TypeFirmID": 6,
+		"Name": "Spółka z ograniczoną odpowiedzialnością"
+	},
+	{
+		"TypeFirmID": 7,
+		"Name": "Spółka akcyjna"
+	},
+	{
+		"TypeFirmID": 8,
+		"Name": "Kancelaria Prawna"
+	}
+
+]

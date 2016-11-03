@@ -1,0 +1,66 @@
+﻿<div class="row">
+	<div class="col-xs-5">
+		<input type="text" class="form-control" placeholder="szukaj.. " ng-model="search.$"></input>
+        <input ng-show="1" type="text" class="form-control" placeholder="szukaj w komentarzu.. " ng-model="search.Comment"></input>
+        <uib-accordion>
+			<uib-accordion-group is-open="status.open">
+				<uib-accordion-heading>
+					Wyszukiwanie zaawansowane <i class="pull-right glyphicon" ng-class="{'glyphicon-chevron-down': status.open, 'glyphicon-chevron-right': !status.open}"></i>
+				</uib-accordion-heading>
+					Wyszukiwanie według "Przedmiotu sprawy"
+										
+					<input type="text" class="form-control" placeholder="szukaj klienta .. " ng-model="search.Clients.$"></input>
+					<br />
+
+					<select type="text" class="form-control" ng-model="search.Status" convert-to-number>
+						<option value="" disabled selected hidden>Szukaj wg Statusu ...</option>
+						<option ng-repeat="s in Status" value="{{s.StatusID}}">{{s.Status}}</option>
+					</select>
+					<br />
+					<select type="text" class="form-control" ng-model="search.TypeCase" ng-init="search.TypeCase=''" convert-to-number>
+						<option value="" disabled selected hidden>Szukaj wg rodzaju</option>
+						<option ng-repeat="t in TypeCases" value="{{t.TypeCaseID}}">{{t.Name}}</option>
+					</select>
+					<br />
+					<select type="text" class="form-control" ng-model="search.OfficeID" ng-init="search.OfficeID=''" required convert-to-number>
+						<option value="" disabled selected hidden>Szukaj wg Kancelarii</option>
+						<option ng-repeat="f in Firms | filter:{TypeFirm:8}" value="{{f.FirmID}}">{{f.Name}}</option>
+					</select>
+					<br />
+
+					<input type="text" class="form-control" placeholder="szukaj w komentarzu.. " ng-model="search.Comment"></input>
+				</uib-accordion-group>
+			</uib-accordion> <br />
+	
+			</div>
+			<div class="col-xs-4">
+				<a href="#myCase/create" class="btn btn-success pull-right">Nowa sprawa</a>
+			</div>
+	</div>
+	<div class="col-xs-9">
+			<table class="table table-striped table-xs" ng-show="1">
+				<thead>
+					<tr>
+						<th>Sygnatura<br /></th>
+						<th>Klienci</th>
+						<th>Typ</th>
+						<th>Wartość</th>
+						<th></th>
+						<th></th>
+
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="myCase in cases | filter : search">
+						<td>{{myCase.AutoSing}}</td>
+						<td>{{myCase.Clients}}<br /></td>
+						<td>{{TypeCases[myCase.TypeCaseID-1].Name}}<br /></td>
+						<td>{{myCase.Value | number:2}} zł<br /></td>
+						<td><a href="#/myCase/edit/{{myCase.id}}" class="btn btn-info"><span class="glyphicon glyphicon-pencil"></span></a></td>
+						<td><a ng-click="delete(myCase, $index)" class="btn btn-danger"><span class="glyphicon glyphicon-trash"></span></a></td>
+					</tr>
+				</tbody>
+			</table>
+	</div>
+</div>
+

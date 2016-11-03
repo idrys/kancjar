@@ -1,0 +1,54 @@
+[
+	{
+		"TagID": 1,
+		"Name": "Prowadz¹cy"
+	},
+	{
+		"TagID": 2,
+		"Name": "Klient"
+	},
+	{
+		"TagID": 3,
+		"Name": "Oskar¿ony"
+	},
+	{
+		"TagID": 4,
+		"Name": "Obroñca"
+	},
+	{
+		"TagID": 5,
+		"Name": "II Strona"
+	},
+	{
+		"TagID": 6,
+		"Name": "Pozwany"
+	},
+	{
+		"TagID": 7,
+		"Name": "Prawnik"
+	},
+	{
+		"TagID": 8,
+		"Name": "Oskar¿ciel"
+	},
+    	{
+		"TagID": 9,
+		"Name": "Przedstawiciel"
+	},
+	{
+		"TagID": 10,
+		"Name": "Pe³nomocnik"
+	},
+	{
+		"TagID": 11,
+		"Name": "Wspó³pracownik"
+	},
+	{
+		"TagID": 12,
+		"Name": "Kontrachent"
+	},
+	{
+		"TagID": 13,
+		"Name": "Kancelaria"
+	}
+]

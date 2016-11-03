@@ -1,0 +1,23 @@
+[
+	{
+		"LinkTypeID": 1,
+		"Name": "Właściciel"
+	},
+	{
+		"LinkTypeID": 2,
+		"Name": "Współwłaściciel"
+	},
+	{
+		"LinkTypeID": 3,
+		"Name": "Wspólnik"
+	},
+	{
+		"LinkTypeID": 4,
+		"Name": "Członek zarządu"
+	},
+	{
+		"LinkTypeID": 5,
+		"Name": "Pracownik"
+	}
+
+]
